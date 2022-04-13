@@ -1,7 +1,7 @@
 {
   "main.css": "/pintoo/static/css/main.6a760d11.chunk.css",
-  "main.js": "/pintoo/static/js/main.9ef9295a.chunk.js",
-  "main.js.map": "/pintoo/static/js/main.9ef9295a.chunk.js.map",
+  "main.js": "/pintoo/static/js/main.367367f7.chunk.js",
+  "main.js.map": "/pintoo/static/js/main.367367f7.chunk.js.map",
   "static/css/1.1500ce83.chunk.css": "/pintoo/static/css/1.1500ce83.chunk.css",
   "static/js/1.28354b7e.chunk.js": "/pintoo/static/js/1.28354b7e.chunk.js",
   "static/js/1.28354b7e.chunk.js.map": "/pintoo/static/js/1.28354b7e.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.6a760d11.chunk.css.map": "/pintoo/static/css/main.6a760d11.chunk.css.map",
   "static/css/1.1500ce83.chunk.css.map": "/pintoo/static/css/1.1500ce83.chunk.css.map",
   "index.html": "/pintoo/index.html",
-  "precache-manifest.66fe7ed08789536c52d3e1ccca43c852.js": "/pintoo/precache-manifest.66fe7ed08789536c52d3e1ccca43c852.js",
+  "precache-manifest.b82f19e1cc58fe1b2f03fe3ddb2ff8ec.js": "/pintoo/precache-manifest.b82f19e1cc58fe1b2f03fe3ddb2ff8ec.js",
   "service-worker.js": "/pintoo/service-worker.js"
 }
