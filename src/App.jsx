@@ -15,9 +15,9 @@ const App = () => {
             <Navbar/>
             <br /><br />
             <Switch>
-                <Route exact path="/" component={Home} />
+                <Route exact path="/" component={Menu} />
                 <Route exact path="/cart" component={Cart} />
-                <Route exact path="/menu" component={Menu} />
+                <Route exact path="/menu" component={Home} />
             </Switch>
 
 
