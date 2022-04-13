@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.a4b54a64.chunk.css",
-  "main.js": "/static/js/main.b63d8b74.chunk.js",
-  "main.js.map": "/static/js/main.b63d8b74.chunk.js.map",
-  "static/css/1.1500ce83.chunk.css": "/static/css/1.1500ce83.chunk.css",
-  "static/js/1.28354b7e.chunk.js": "/static/js/1.28354b7e.chunk.js",
-  "static/js/1.28354b7e.chunk.js.map": "/static/js/1.28354b7e.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.a4b54a64.chunk.css.map": "/static/css/main.a4b54a64.chunk.css.map",
-  "static/css/1.1500ce83.chunk.css.map": "/static/css/1.1500ce83.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.c701d7f46b3f4fa11c980459c28ed3dd.js": "/precache-manifest.c701d7f46b3f4fa11c980459c28ed3dd.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/pintoo/static/css/main.a4b54a64.chunk.css",
+  "main.js": "/pintoo/static/js/main.ee1ce6fa.chunk.js",
+  "main.js.map": "/pintoo/static/js/main.ee1ce6fa.chunk.js.map",
+  "static/css/1.1500ce83.chunk.css": "/pintoo/static/css/1.1500ce83.chunk.css",
+  "static/js/1.fde4d7a5.chunk.js": "/pintoo/static/js/1.fde4d7a5.chunk.js",
+  "static/js/1.fde4d7a5.chunk.js.map": "/pintoo/static/js/1.fde4d7a5.chunk.js.map",
+  "runtime~main.js": "/pintoo/static/js/runtime~main.cc23ae3a.js",
+  "runtime~main.js.map": "/pintoo/static/js/runtime~main.cc23ae3a.js.map",
+  "static/css/main.a4b54a64.chunk.css.map": "/pintoo/static/css/main.a4b54a64.chunk.css.map",
+  "static/css/1.1500ce83.chunk.css.map": "/pintoo/static/css/1.1500ce83.chunk.css.map",
+  "index.html": "/pintoo/index.html",
+  "precache-manifest.d8646b512b169f36e9d73ef74a358850.js": "/pintoo/precache-manifest.d8646b512b169f36e9d73ef74a358850.js",
+  "service-worker.js": "/pintoo/service-worker.js"
 }
