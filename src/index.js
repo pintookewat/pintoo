@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import { HashRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router} from "react-router-dom";
 import { Provider } from "react-redux";
 import store from "./Componets/Redux/Store";
 
@@ -13,12 +13,12 @@ import store from "./Componets/Redux/Store";
 ReactDOM.render(
 
 
-  <Router>
+  <BrowserRouter>
     <Provider store={store}>
       <App />
     </Provider>
 
-  </Router>
+  </BrowserRouter>
   ,
   document.getElementById('root')
 );
