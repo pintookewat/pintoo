@@ -13,12 +13,14 @@ import store from "./Componets/Redux/Store";
 ReactDOM.render(
 
 
-  <Router>
+
     <Provider store={store}>
+    <Router>
       <App />
+    </Router>
     </Provider>
 
-  </Router>
+
   ,
   document.getElementById('root')
 );
