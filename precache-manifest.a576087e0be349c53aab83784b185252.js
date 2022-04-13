@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ee1ce6fa095cfd9e99a5",
-    "url": "/pintoo/static/css/main.a4b54a64.chunk.css"
+    "revision": "0350ac5e83829827d621",
+    "url": "/pintoo/static/css/main.6a760d11.chunk.css"
   },
   {
-    "revision": "ee1ce6fa095cfd9e99a5",
-    "url": "/pintoo/static/js/main.ee1ce6fa.chunk.js"
+    "revision": "0350ac5e83829827d621",
+    "url": "/pintoo/static/js/main.0350ac5e.chunk.js"
   },
   {
     "revision": "fde4d7a599daaeb3391c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pintoo/static/js/runtime~main.cc23ae3a.js"
   },
   {
-    "revision": "62772273a2f6e4721707971ebe66ce62",
+    "revision": "eaeb15d30a22dcbda634739192ef99e4",
     "url": "/pintoo/index.html"
   }
 ];
