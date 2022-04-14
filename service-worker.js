@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pintoo/precache-manifest.a283f2e63c0d32ae8586d3378028d07a.js"
+  "/pintoo/precache-manifest.91e047b52e9b3b492e3f075627e7b515.js"
 );
 
 workbox.clientsClaim();
