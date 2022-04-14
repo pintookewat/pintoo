@@ -66,7 +66,7 @@ const Menu = () => {
 
         <>
 
-            <div id="Removeall">
+            <div id="Removeall" className="col-12 col-sm-12 col-lg-12">
             
             <div className="d-flex justify-content-center">
                 <Button variant="contained" color="error" onClick={Allremove} >All Remove</Button>
